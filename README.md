@@ -1,5 +1,4 @@
 # GRAND
-GRAND: Graph Release with Assured Node Differential Privacy
 This repository contains the code for examples in the paper
 
 GRAND: Graph Release with Assured Node Differential Privacy, by Suqing Liu, Xuan Bi and Tianxi Li. (https://arxiv.org/abs/2507.00402). 
