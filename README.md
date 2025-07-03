@@ -23,6 +23,7 @@ The file GRAND-PublicCode.zip can be unzipped into the following files:
 
 
 References:
+
 S. Liu, X. Bi, T. Li. GRAND: Graph Release with Assured Node Differential Privacy. arXiv:2507.00402, 2025.
 
 A. L. Traud, P. J. Mucha, and M. A. Porter. Social structure of Facebook networks. Phys. A, 391 (16):4165–4180, Aug 2012.
